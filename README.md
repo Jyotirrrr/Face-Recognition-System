@@ -24,5 +24,6 @@ Before running the project, ensure you have Python and the necessary libraries i
 
 Install the required libraries using pip:
 
+Data Set link : https://www.kaggle.com/datasets/vasukipatel/face-recognition-dataset
 ```bash
 pip install face_recognition opencv-python numpy
