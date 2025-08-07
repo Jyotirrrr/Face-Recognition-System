@@ -13,6 +13,9 @@ This project is a simple yet effective face recognition system built in Python. 
 
 ---
 
+
+Data Set link : https://www.kaggle.com/datasets/vasukipatel/face-recognition-dataset
+
 ## ⚙️ Prerequisites
 
 Before running the project, ensure you have Python and the necessary libraries installed:
@@ -24,6 +27,5 @@ Before running the project, ensure you have Python and the necessary libraries i
 
 Install the required libraries using pip:
 
-Data Set link : https://www.kaggle.com/datasets/vasukipatel/face-recognition-dataset
 ```bash
 pip install face_recognition opencv-python numpy
